@@ -1,4 +1,4 @@
-# ******\_****** Project 3
+# Project 3
 
 ## Project Overview
 
@@ -28,3 +28,10 @@ To set up the project environment:
 ## Analysis Techniques
 
 Each technique is demonstrated with appropriate visualizations using Seaborn and/or Matplotlib.
+
+## Ideas
+
+- Scrape rolling stones for most mentioned artists
+- Scrape cooking recipes, find trends in ingredients
+- Something with video games if desperate
+- https://ucimtbworldseries.com/teams
